@@ -4,14 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Elohim Pictures</title>
 </head>
 <body>
     <header>
        <div class="header">
         <img id="logo" src="images/logo.jpg" alt="Elohim pictures logo">
-        <h2>You don't take a picture, <br>You make it!</h2>
+        <h2>You don't take a picture, You make it!</h2>
         <nav>
             <ul>
                 <li><a href="home.html">HOME</a></li>
@@ -39,7 +38,7 @@
         </ul>
     </div>
 
-       <div class="section2">
+    <div class="section2">
         <div class="firstDivision">
             <img src="images/image1.jpg" alt="A man walking on road.">
             <div class="centerpart">
@@ -72,6 +71,8 @@
         </div>
     </footer>
 
+
+       
 
       
 
