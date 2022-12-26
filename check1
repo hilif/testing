@@ -4,14 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Elohim Pictures</title>
 </head>
 <body>
     <header>
        <div class="header">
         <img id="logo" src="images/logo.jpg" alt="Elohim pictures logo">
-        <h2>You don't take a picture, <br>You make it!</h2>
+        <h2>You don't take a picture, You make it!</h2>
         <nav>
             <ul>
                 <li><a href="home.html">HOME</a></li>
@@ -29,3 +28,54 @@
         </nav>
        </div>
     </header>
+
+    <div class="section1">
+        <ul>
+            <li>Mobile Photgraphs</li>
+            <li>Photo Tips</li>
+            <li>Photo Competitions</li>
+            <li>Wallpaper Photos</li>
+        </ul>
+    </div>
+
+    <div class="section2">
+        <div class="firstDivision">
+            <img src="images/image1.jpg" alt="A man walking on road.">
+            <div class="centerpart">
+                <p>Lets Motivate and Entertain You!</p>
+                <p>Colour-Loving and Character Hunting!</p>
+                <img src="images/image2.jpg" alt="A bulb light with a circle shape and touched by a pencil.">
+            </div>
+            <img src="images/image3.jpg" alt="A police man cars on a road.">
+        </div>
+        <div class="video" >
+            <video controls>
+                <source src="video.mp4" type="video/mp4">
+                <track kind="captions" 
+                       src="captions.vtt" 
+                       srclang="en" 
+                       label="English">
+            </video>
+        </div>
+    </div>
+
+    <footer>
+        <div class="text">
+            <p>WE ARE HERE</p>
+            <P>Try to contact us.</P>
+            <p>Make taking a photography your habit.</p>
+        </div>
+        <div class="follow">
+            <h2>Follow Us</h2>
+            <a href="https://t.me/elohim_picture"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Navigate</title><path d="M448 64L64 240.14h200a8 8 0 018 8V448z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg></a>
+           
+        </div>
+    </footer>
+
+
+      
+
+    
+    
+</body>
+</html>
