@@ -67,8 +67,7 @@
         </div>
         <div class="follow">
             <h2>Follow Us</h2>
-            <a href="https://t.me/elohim_picture"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Navigate</title><path d="M448 64L64 240.14h200a8 8 0 018 8V448z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg></a>
-           
+            
         </div>
     </footer>
 
